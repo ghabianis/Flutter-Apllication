@@ -62,6 +62,7 @@ class GlobalParams {
   static List<Map<String, dynamic>> accueil = [
     {"image": "images/meteo.png", "routes": "/menu/meteo"},
     {"image": "images/image.png", "routes": "/menu/gallerie"},
-    {"image": "images/params.png", "routes": "/menu/parametres"}
+    {"image": "images/params.png", "routes": "/menu/parametres"},
+    {"image": "images/country.png", "routes": "/menu/pays"}
   ];
 }
