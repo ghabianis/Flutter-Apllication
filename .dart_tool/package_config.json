@@ -32,6 +32,12 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "cross_file",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/cross_file-0.3.3+6",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "cupertino_icons",
       "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.6",
       "packageUri": "lib/",
@@ -56,6 +62,30 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "file_selector_linux",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/file_selector_linux-0.9.2+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "file_selector_macos",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/file_selector_macos-0.9.3+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "file_selector_platform_interface",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/file_selector_platform_interface-2.6.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "file_selector_windows",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/file_selector_windows-0.9.3+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///C:/Users/anisg/OneDrive/Desktop/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -64,6 +94,12 @@
     {
       "name": "flutter_lints",
       "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-2.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "flutter_plugin_android_lifecycle",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.17",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -92,10 +128,64 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "image_picker",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker-0.8.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "image_picker_android",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_android-0.8.8+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "image_picker_for_web",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_for_web-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "image_picker_ios",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_ios-0.8.8+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "image_picker_linux",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_linux-0.2.1+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "image_picker_macos",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_macos-0.2.1+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "image_picker_platform_interface",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_platform_interface-2.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "image_picker_windows",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_windows-0.2.1+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "intl",
       "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.17.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.6.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
     },
     {
       "name": "lints",
@@ -120,6 +210,12 @@
       "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.10.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "mime",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/mime-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
     },
     {
       "name": "path",
@@ -206,10 +302,28 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "snippet_coder_utils",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/snippet_coder_utils-1.0.14",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "source_span",
       "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/source_span-1.10.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
+    },
+    {
+      "name": "sqflite",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite-2.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "sqflite_common",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite_common-2.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "stack_trace",
@@ -226,6 +340,12 @@
     {
       "name": "string_scanner",
       "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/string_scanner-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "synchronized",
+      "rootUri": "file:///C:/Users/anisg/AppData/Local/Pub/Cache/hosted/pub.dev/synchronized-3.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -278,7 +398,7 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-10-19T18:56:13.124734Z",
+  "generated": "2023-10-26T19:12:56.590106Z",
   "generator": "pub",
   "generatorVersion": "3.2.0-210.2.beta"
 }
